@@ -514,8 +514,8 @@ section {
     gap: 16px;
 }
 .link-footer:hover {
-    background-color: var(--green);
+    background-color: #31d0aa;
 }
 .link-footer:focus {
-    background-color: var(--green);
+    background-color: #31d0aa;
 }
