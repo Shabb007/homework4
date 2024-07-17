@@ -163,6 +163,15 @@ section {
     border-radius: 50%;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.link:hover {
+    background-color: var(--press-color);
+}
+.link:focus {
+    background-color: var(--press-color);
+}
+.feature-icon {
+    fill: var(--cloud);
+  }
 
 .first-address {
     font-style: normal;
